@@ -6,8 +6,11 @@ The objective of this work is to understand the Customer Purchasing Behavior thr
 #### How is it relevant to stakeholders?
 
 •	Product Recommendation
+
 •	Store Layout plannning
+
 • Cross-Selling Strategies
+
 •	Pricing & Sales Strategies
 
 
