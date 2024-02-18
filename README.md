@@ -20,7 +20,7 @@ The objective of this work is to understand the Customer Purchasing Behavior thr
 
 Tech Stacks: PowerQuery and PowerBI
 
-### Potential metrics could be used 
+### Potential metrics could also be used 
 1. Zhang Metric
 
 2. Leverage
