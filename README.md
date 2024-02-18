@@ -6,13 +6,9 @@ The objective of this work is to understand the Customer Purchasing Behavior thr
 #### How does this help the Decision Makers?
 
 •	Product Recommendation
-
 •	Store Layout plannning
-
 • Cross-Selling Strategies
-
 •	Pricing & Sales Strategies
-
 
 #### Key Metrics used
 
