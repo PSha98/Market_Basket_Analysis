@@ -1,7 +1,7 @@
 # Market_Basket_Analysis
 
 ## Executive Summary
-The objective of this work is to understand the Customer Purchasing Behavior through apriori algorithm for association rule mining with the help of the following key metrics:
+The objective of this work is to understand the Customer Purchasing Behavior through apriori algorithm for association rule mining with the help of key metrics.
 
 #### How does this help the Decision Makers?
 
