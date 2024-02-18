@@ -14,6 +14,8 @@ The objective of this work is to understand the Customer Purchasing Behavior thr
 •	Pricing & Sales Strategies
 
 
+#### Key Metrics used
+
 1. Support
 
 2. Confidence
