@@ -18,9 +18,10 @@ The objective of this work is to understand the Customer Purchasing Behavior thr
 
 3. Lift
 
-Tech Stacks: PowerQuery and PowerBI
 
 ### Potential metrics could also be used 
 1. Zhang Metric
 
 2. Leverage
+
+#### Tech Stacks: Power Query, Power BI
