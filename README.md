@@ -19,7 +19,7 @@ The objective of this work is to understand the Customer Purchasing Behavior thr
 3. Lift- The ratio of the observed support to that expected if X and Y were independent. Values greater than 1 indicate that the rule occurs more often than expected.
 
 
-### Potential metrics could also be used 
+#### Potential metrics could also be used 
 1. Zhang Metric- Accounts for both the support and confidence of the rule. Tends to filter out rules with medium support and high confidence only.
 
 2. Leverage- Measures the difference between the observed and expected frequencies, standardized by the standard deviations. Can identify rules more surprising to the data.
