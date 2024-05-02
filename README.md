@@ -1,4 +1,4 @@
-# Market_Basket_Analysis
+# Market_Basket_Analysis/Product Affinity Analysis
 
 ## Executive Summary
 The objective of this work is to understand the Customer Purchasing Behavior through apriori algorithm for association rule mining with the help of key metrics.
